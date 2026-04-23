@@ -1,4 +1,3 @@
-Here’s a **clean, beginner-friendly Markdown guide** you can drop into your repo as `README.md` 👇
 
 ---
 
